@@ -22,3 +22,11 @@
     - Add the node to the explored set.
     - Expand node, add resulting nodes to the frontier if they aren't already in the frontier or the explored set.
 
+
+# Data Structures
+
+- Stack
+- Depth-dirst search
+- breadth-first search
+- queue
+
